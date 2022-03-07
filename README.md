@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PradheshKumar
-- 👀 I’m interested in ... Game Development 
+- 👀 I’m interested in ... Game and Web Development 
 - 🌱 I’m currently learning ..B.E.Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pradheshkumar29@gmail.com
