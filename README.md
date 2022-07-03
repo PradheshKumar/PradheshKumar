@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PradheshKumar
 - 👀 I’m interested in ... Game and Web Development 
 - 🌱 I’m currently learning ..B.E.Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Full Stack Web Development
 - 📫 How to reach me ...pradheshkumar29@gmail.com
 
 <!---
