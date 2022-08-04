@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradhesh Kumar R</h1>
 <h3 align="center">A budding full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 - 🔭 I’m currently working on **Nodejs Projects**
 
