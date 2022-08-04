@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/pradheshkumar](https://www.linkedin.com/in/pradhesh-kumar-r-0a9083230/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradheshkumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pradhesh-kumar-r-0a9083230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradheshkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/pradhesh_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradhesh_kumar" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@pradheshkumar29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pradheshkumar29" height="30" width="40" /></a>
 <a href="https://discord.gg/#8957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8957" height="30" width="40" /></a>
