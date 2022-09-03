@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nodejs Projects<br><br>🌱 I’m currently learning Advanced CSS and SASS<br><br>👯 I’m looking to collaborate on FrontEnd,BackEnd,Full Stack Projects<br><br>💬 Ask me about javascript,nodejs,expressjs,C & C++ programming<br><br>📫 How to reach me pradheshkumar29@gmail.com<br><br>www.pradheshkumar.tk
+🔭 I’m currently working on Nodejs Projects<br><br>🌱 I’m currently learning Advanced CSS and SASS<br><br>👯 I’m looking to collaborate on FrontEnd,BackEnd,Full Stack Projects<br><br>💬 Ask me about javascript,nodejs,expressjs,C & C++ programming<br><br>📫 How to reach me pradheshkumar29@gmail.com<br><br> 📫 How to reach me www.pradheshkumar.tk
 
 
 ## 🌐 Socials:
